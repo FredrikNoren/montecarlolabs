@@ -12,10 +12,18 @@
   right: 0px;
 }
 
-.Title {
-  font-size: 60px;
-  font-family: 'Lexend Tera', sans-serif;
-  text-align: center;
+.Logo {
+  position: absolute;
+  width: 300px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.Links {
+  position: absolute;
+  left: 50%;
+  bottom: 30px;
+  transform: translate(-50%, 0);
 }
 
 a {

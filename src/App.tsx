@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
+import LogoPng from './MountRoukeLogo.png';
 
 function App() {
   return (
     <div className="App">
-      <div className="Title">
-        Cloud Mountain Labs
-      </div>
+      <img src={LogoPng} className="Logo" alt="Mount Rouke Studios" />
       <div className="Links">
         <a href="https://derkgame.com">Dr. Derk's Mutant Battlegrounds</a>
       </div>

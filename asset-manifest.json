@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.84c5d4c8.chunk.css",
+    "main.css": "/static/css/main.83208cc2.chunk.css",
     "main.js": "/static/js/main.4e23c425.chunk.js",
     "main.js.map": "/static/js/main.4e23c425.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.62eaf262.js",
@@ -8,16 +8,16 @@
     "static/js/2.5f3bcf55.chunk.js": "/static/js/2.5f3bcf55.chunk.js",
     "static/js/2.5f3bcf55.chunk.js.map": "/static/js/2.5f3bcf55.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cef08836c685e05e0bd1bf3598e41534.js": "/precache-manifest.cef08836c685e05e0bd1bf3598e41534.js",
+    "precache-manifest.450ff3b91393f1cbf40c9fde0abac4dd.js": "/precache-manifest.450ff3b91393f1cbf40c9fde0abac4dd.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.84c5d4c8.chunk.css.map": "/static/css/main.84c5d4c8.chunk.css.map",
+    "static/css/main.83208cc2.chunk.css.map": "/static/css/main.83208cc2.chunk.css.map",
     "static/js/2.5f3bcf55.chunk.js.LICENSE.txt": "/static/js/2.5f3bcf55.chunk.js.LICENSE.txt",
     "static/media/MountRoukeLogo.svg": "/static/media/MountRoukeLogo.eb5ec48d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.62eaf262.js",
     "static/js/2.5f3bcf55.chunk.js",
-    "static/css/main.84c5d4c8.chunk.css",
+    "static/css/main.83208cc2.chunk.css",
     "static/js/main.4e23c425.chunk.js"
   ]
 }

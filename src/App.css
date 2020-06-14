@@ -13,17 +13,17 @@
 }
 
 .Logo {
-  position: absolute;
   width: 300px;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
 }
 .Links {
   position: absolute;
-  left: 50%;
+  left: 0;
+  right: 0;
   bottom: 30px;
-  transform: translate(-50%, 0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 a {
